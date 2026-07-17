@@ -101,32 +101,12 @@ learning:  AI Agents · Prompt Eng.
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=csharp&theme=dark&animate=true" width="48" height="48" alt="c#" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark&animate=true" width="48" height="48" alt="react" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark&animate=true" width="48" height="48" alt="typescript" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs&theme=dark&animate=true" width="48" height="48" alt="nextjs" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark&animate=true" width="48" height="48" alt="c++" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark&animate=true" width="48" height="48" alt="vscode" />
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                       FEATURED PROJECTS                      -->
-<!-- ============================================================ -->
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Hawkins 1983 Arcade Games](https://github-readme-stats.vercel.app/api/pin/?username=willbyers1&repo=Hawkins-1983-Arcade-Games&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/willbyers1/Hawkins-1983-Arcade-Games)
-[![Astro Compute Terminal](https://github-readme-stats.vercel.app/api/pin/?username=willbyers1&repo=Astro-Compute-Terminal&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/willbyers1/Astro-Compute-Terminal)
-[![PromptRank](https://github-readme-stats.vercel.app/api/pin/?username=willbyers1&repo=PromptRank&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/willbyers1/PromptRank)
-[![RigMaster AI](https://github-readme-stats.vercel.app/api/pin/?username=willbyers1&repo=RigMaster-AI&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/willbyers1/RigMaster-AI)
-[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=willbyers1&repo=library-management-system&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/willbyers1/library-management-system)
-[![README Scorer](https://github-readme-stats.vercel.app/api/pin/?username=willbyers1&repo=README-SCORER&theme=react&hide_border=true&bg_color=0D1117&icon_color=1DA1F2&title_color=58A6FF)](https://github.com/willbyers1/README-SCORER)
-
 </div>
 
 ---
