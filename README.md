@@ -8,7 +8,7 @@
 #### Computer Engineering Undergrad '29 · AI Engineer · Full-Stack Developer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Computer+Engineering+Undergrad+'29;Building+AI-Powered+Solutions;C%23+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+TypeScript;Open+Source+%26+Side-Project+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Building+AI-Powered+Solutions;C%23+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+TypeScript;Open+Source+%26+Side-Project+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
