@@ -66,36 +66,6 @@ learning:  AI Agents · Prompt Eng.
 ---
 
 <!-- ============================================================ -->
-<!--                  CURRENTLY BUILDING / LEARNING               -->
-<!-- ============================================================ -->
-## 🔭 Currently Building & Learning
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ Building
-- 🤖 **AI-powered tools** (prompt scorers, performance predictors)
-- 🕹️ Themed **web experiences** with React & TypeScript
-- 📊 Dev-tooling like **README-SCORER** for OSS quality
-- 🧮 Precision **utility apps** (physics/unit conversion)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Learning & Exploring
-- 🧠 **AI Agents** & prompt engineering
-- 🌐 Modern **full-stack** patterns (Next.js, React)
-- 🗂️ Object-oriented system design (C++)
-- ☁️ Deploying and shipping side projects end-to-end
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ============================================================ -->
 <!--                          TECH STACK                          -->
 <!-- ============================================================ -->
 ## 🧰 Tech Stack
@@ -105,6 +75,7 @@ learning:  AI Agents · Prompt Eng.
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark&animate=true" width="48" height="48" alt="react" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=ts&theme=dark&animate=true" width="48" height="48" alt="typescript" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs&theme=dark&animate=true" width="48" height="48" alt="nextjs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark&animate=true" width="48" height="48" alt="kotlin" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark&animate=true" width="48" height="48" alt="vscode" />
 </div>
@@ -145,7 +116,7 @@ learning:  AI Agents · Prompt Eng.
 
 🧠 Galaxy Brain &nbsp;·&nbsp; 🦈 Pull Shark ×2 &nbsp;·&nbsp; 🤝 Pair Extraordinaire &nbsp;·&nbsp; 🎯 YOLO &nbsp;·&nbsp; ⚡ Quickdraw
 
-📌 Member of **[BMO-1-SINIF-ORYANTASYON](https://github.com/BMO-1-SINIF-ORYANTASYON)**
+
 
 </div>
 
@@ -158,6 +129,6 @@ learning:  AI Agents · Prompt Eng.
 
 **_Thanks for visiting — let's build something together._**
 
-⭐️ Beğendiğin bir proje varsa [takip et](https://github.com/willbyers1) veya bir repo'ya yıldız bırak.
+⭐️ If you like a project, [follow it](https://github.com/willbyers1) or star a repo.
 
 </div>
