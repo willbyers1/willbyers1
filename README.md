@@ -43,7 +43,7 @@
 
 I'm **Mert Batu Bülbül** (a.k.a. **willbyers1**) — a **Computer Engineering undergraduate (Class of '29)** who loves building **AI-powered solutions** and full-stack side projects.
 
-I mostly work with **TypeScript, Python, React and C#**, moving between AI/ML experiments, web apps, and the occasional creative project. 
+I mostly work with **TypeScript, Python and React**, moving between AI/ML experiments, web apps, creative project and building my own AI Assisstant. 
 
 </td>
 <td width="40%" valign="top">
@@ -55,7 +55,7 @@ name:      Mert Batu Bülbül
 handle:    willbyers1
 role:      CE Undergrad '29
 focus:     AI-Powered Solutions
-stack:     C# · Python · React · TS
+stack:     Python · React · TS
 learning:  AI Agents · Prompt Eng.
 ```
 
@@ -78,6 +78,7 @@ learning:  AI Agents · Prompt Eng.
   <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark&animate=true" width="48" height="48" alt="kotlin" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode&theme=dark&animate=true" width="48" height="48" alt="vscode" />
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </div>
 
 ---
