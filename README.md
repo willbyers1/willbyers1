@@ -21,7 +21,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willbyers1)
 [![Followers](https://img.shields.io/github/followers/willbyers1?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/willbyers1?tab=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=willbyers1&label=Profile%20Views&color=0077B5&style=for-the-badge)
-[![Location](https://img.shields.io/badge/Location-Türkiye-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/willbyers1)
 
 </div>
 
@@ -44,7 +43,7 @@
 
 I'm **Mert Batu Bülbül** (a.k.a. **willbyers1**) — a **Computer Engineering undergraduate (Class of '29)** who loves building **AI-powered solutions** and full-stack side projects.
 
-I mostly work with **C#, Python, React and TypeScript**, moving between AI/ML experiments, web apps, and the occasional creative project (like a Stranger-Things-themed arcade 🕹️). I'm based in **Türkiye** and always looking for interesting problems to build something around.
+I mostly work with **TypeScript, Python, React and C#**, moving between AI/ML experiments, web apps, and the occasional creative project. 
 
 </td>
 <td width="40%" valign="top">
@@ -57,7 +56,6 @@ handle:    willbyers1
 role:      CE Undergrad '29
 focus:     AI-Powered Solutions
 stack:     C# · Python · React · TS
-location:  Türkiye
 learning:  AI Agents · Prompt Eng.
 ```
 
