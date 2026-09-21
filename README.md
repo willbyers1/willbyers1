@@ -43,7 +43,7 @@
 
 I'm **Mert Batu Bülbül** (a.k.a. **willbyers1**) — a **Computer Engineering undergraduate (Class of '29)** who loves building **AI-powered solutions** and full-stack side projects.
 
-I mostly work with **TypeScript, Python and React**, moving between AI/ML experiments, web apps, creative project and building my own AI Assisstant. 
+I mostly work with **TypeScript, JavaScript and React**, moving between AI/ML experiments, web apps, creative project and building my own AI Assisstant. 
 
 </td>
 <td width="40%" valign="top">
@@ -55,7 +55,7 @@ name:      Mert Batu Bülbül
 handle:    willbyers1
 role:      CE Undergrad '29
 focus:     AI-Powered Solutions
-stack:     Python · React · TS
+stack:     JavaScript · React · TS
 learning:  AI Agents · Prompt Eng.
 ```
 
